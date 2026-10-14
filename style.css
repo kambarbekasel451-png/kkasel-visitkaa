@@ -1,0 +1,66 @@
+```css
+/* Тег селекторы */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    color: #1e293b;
+    margin: 0;
+    padding: 25px;
+}
+.card {
+    max-width: 700px;
+    margin: auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+/* ID селекторы */
+#main-title {
+    color: #0ff307;
+    text-align: center;
+}
+
+/* Тег селекторы */
+h2 {
+    color: #334155;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #dbeafe;
+}
+
+th, td {
+    border: 1px solid #94a3b8;
+    padding: 10px;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 25px;
+}
+
+/* Ұрпақ селекторы */
+.card a {
+    color: #2563eb;
+}
+
+/* Псевдокласс */
+.card a:hover {
+    color: #dc2626;
+}
+```
