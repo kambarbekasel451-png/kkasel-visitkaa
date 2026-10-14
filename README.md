@@ -1,1 +1,52 @@
 # kkasel-visitkaa
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><h1 id="main-title" style="color: blue;">
+    Менің визиткам
+</h1></title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f1f5f9; color: #1e293b; margin: 0; padding: 25px;">
+
+    <div style="max-width: 700px; margin: auto; background-color: white; padding: 25px; border-radius: 12px;">
+
+        <h1 style="color: #1d4ed8; text-align: center;">Менің визиткам</h1>
+
+        <h2 style="color: #334155;">Өзім туралы</h2>
+        <p style="font-size: 16px; line-height: 1.6;">
+            Менің есімім — Әсел . Мен ақпараттық қауіпсіздік
+            мамандығында оқимын. Болашақта киберқауіпсіздік
+            саласында маман болғым келеді.
+        </p>
+        <h2 style="color: #334155;">Менің дағдыларым</h2>
+        <ul style="line-height: 1.8;">
+            <li>HTML және CSS</li>
+            <li>Киберқауіпсіздік негіздері</li>
+            <li>Ақпарат іздеу және талдау</li>
+        </ul>
+        <h2 style="color: #334155;">Менің мақсаттарым</h2>
+        <table style="width: 100%; border-collapse: collapse;">
+            <tr style="background-color: #dbeafe;">
+                <th style="border: 1px solid #94a3b8; padding: 10px;">Бағыт</th>
+                <th style="border: 1px solid #94a3b8; padding: 10px;">Мақсат</th>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #94a3b8; padding: 10px;">Оқу</td>
+                <td style="border: 1px solid #94a3b8; padding: 10px;">Білімімді жетілдіру</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #94a3b8; padding: 10px;">Мамандық</td>
+                <td style="border: 1px solid #94a3b8; padding: 10px;">Киберқауіпсіздікті меңгеру</td>
+            </tr>
+        </table>
+
+        <p style="text-align: center; margin-top: 25px;">
+            Байланыс: <a href="mailto:asel@example.com"
+            style="color: #2563eb;">Email жазу</a>
+        </p>
+    </div>
+</body>
+</html>
+```
